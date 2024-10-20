@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "type": "Book"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "author": "CD Projekt Red",
+      "year": 2015,
+      "type": "Game"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "author": "Phil Lord, Chris Miller",
+      "year": 2018,
+      "type": "Movie"
+    },
+    {
+      "title": "Watchmen",
+      "author": "Alan Moore",
+      "year": 1987,
+      "type": "Comic"
+    },
+    {
+      "title": "Random Access Memories",
+      "author": "Daft Punk",
+      "year": 2013,
+      "type": "Music"
+    }
+  ]
+  
